@@ -169,3 +169,6 @@ As an alternative to in-game data, the network could be modified to take as an i
 Other algorithms proposed to enhance the performance of the Deep Q-Network are:  
    * [Noisy DQN](https://arxiv.org/abs/1706.10295)  
    * [Distributional DQN](https://arxiv.org/abs/1707.06887)
+  
+## References
+![source] https://www.geeksforgeeks.org/deep-q-learning/
