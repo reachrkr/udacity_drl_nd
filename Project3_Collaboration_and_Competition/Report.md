@@ -9,7 +9,7 @@
 ### Algorithm 
 Following the Multi-Agent Actor Critic approach presented [here](https://proceedings.neurips.cc/paper/2017/file/68a9750337a418a86fe06c1991a1d64c-Paper.pdf), each racket is represented by an individual actor network. While each actor only samples from own experiences, the central critic samples from the shared experiences of both agents.
 
-<img src="img/maddpg.jpeg" width="100%" height="50%" alt="Multi-agent decentralized actor, centralized critic" align="center">
+<img src="img/maddpg.jpeg" width="50%" height="50%" alt="Multi-agent decentralized actor, centralized critic" align="center">
 
 The actor and critic networks consist of a fully-connected hidden layer followed by a batch normilization and two fully-connected hidden layers with relu activation: 
 
