@@ -45,6 +45,22 @@ The environment is considered solved, when the average (over 100 episodes) of th
   
   * README.md File`
 
+
+### Getting Started
+
+1. Follow the instructions in this link in order to install the Unity ML-Agents Tennis Environment required to run this project:
+https://github.com/udacity/deep-reinforcement-learning/tree/master/p3_collab-compet#getting-started
+
+2. Install necessary packages
+ Execute this command in order to install the software specified in `requirements.txt`<br/>
+```pip -q install ./python```<br/>
+This command is executed at the beginning of the Jupyter notebook [Tennis.ipynb](Tennis.ipynb).
+
+Alternately you can even install 
+```
+pip install -r /Project3_Collaboration_and_Competition/python/requirements.txt
+```
+   
 ### Instructions
 
 Follow the instructions in `Tennis.ipynb` to get started with training your own agent!  
