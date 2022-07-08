@@ -52,14 +52,12 @@ The environment is considered solved, when the average (over 100 episodes) of th
 https://github.com/udacity/deep-reinforcement-learning/tree/master/p3_collab-compet#getting-started
 
 * Install necessary packages.<br/>
-  Execute this command in order to install the software specified in `requirements.txt`<br/>
+  You can install the software specified in 'requirements.txt`reque.txt by running this command. <br/>
   ```pip -q install ./python```<br/>
   This command should be executed at the beginning of the Jupyter notebook [Tennis.ipynb](Tennis.ipynb).
 
   Alternately you could even install from cli
-  ```
-  pip install -r /Project3_Collaboration_and_Competition/python/requirements.txt
-  ```
+  ```pip install -r /Project3_Collaboration_and_Competition/python/requirements.txt```
    
 ### Instructions
 
